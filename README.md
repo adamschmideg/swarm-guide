@@ -18,4 +18,4 @@ After you have `docker` available just call `make html-docker`.
 
 ### Native with Python
 
-Call `sudo pip install Sphinx sphinx-rtd-theme` then call `make html`.
+Call `sudo pip install Sphinx sphinx-rtd-theme sphinx-tabs` then call `make html`.
